@@ -30,11 +30,11 @@ I am a dedicated software engineer with a passion for architecting robust, effic
 
 ### 📈 GitHub Analytics
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IssamLaribi&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
-<p align="right">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IssamLaribi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
