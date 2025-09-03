@@ -34,7 +34,7 @@ I am a dedicated software engineer with a passion for architecting robust, effic
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IssamLaribi&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IssamLaribi&theme=radical&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IssamLaribi&theme=radical&hide_border=true)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IssamLaribi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
