@@ -2,7 +2,6 @@
 
 **AI Student**
 
-I am a dedicated software engineer with a passion for architecting robust, efficient, and scalable systems. My expertise lies in backend development, where I enjoy solving complex problems with clean, maintainable code. I am constantly exploring new technologies and methodologies to refine my craft and build software that makes a difference.
 
 ---
 
